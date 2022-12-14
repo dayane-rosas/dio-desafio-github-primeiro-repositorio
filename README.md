@@ -1,6 +1,6 @@
 <div>
   <h1 align="left">
-  👋🏼Olá mundo, eu sou Dayane Rosas🥰
+  👋🏼Olá galera, eu sou Dayane Rosas🥰
   </h1>
   
   <p align="right">
@@ -8,7 +8,7 @@
     <img src="ezgif.com-gif-maker.gif" width="200">
     
 <div align='left'>
-  <b> Seja bem-vindo ao desafio DIO no GitHub </b>
+  <b> 🐞 Seja bem-vindo ao desafio DIO no GitHub </b>
 </div><br>
 
   <p align="left">
