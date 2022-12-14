@@ -1,4 +1,4 @@
-###Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+### Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
 Reforce seu conhecimento em Git com um desafio totalmente
 prático, onde você executará todos os passos para a criação,
