@@ -15,7 +15,7 @@
   </div>
 <div align="center">
   <a href="https://github.com/dayane-rosas/dio-desafio-github-primeiro-repositorio/blob/main/ezgif.com-gif-maker.gif">
-    <img src="welcome.gif" width="500">
+    <img src="ezgif.com-gif-maker.gif" width="500">
   </a>
 </div>
 
