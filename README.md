@@ -3,9 +3,10 @@
   👋🏼Olá mundo, eu sou Dayane Rosas🥰
   </h1>
   
-  <p align='regth'>
+  <p align='reght'>
     <a href="https://github.com/dayane-rosas/dio-desafio-github-primeiro-repositorio/blob/main/ezgif.com-gif-maker.gif"> </a>
     <img src="ezgif.com-gif-maker.gif" width="200">
+    
 <div align='left'>
   <b> Seja bem-vindo ao desafio DIO no GitHub </b>
 </div><br>
