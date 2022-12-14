@@ -9,7 +9,7 @@
     
 <div align='left'>
   <b> ⭐️ Seja bem-vindo ao desafio DIO no GitHub </b>
-</div>
+</div> </br>
 
   <p align="left">
     Nesse desafio fiz a criação de um novo repositório para a Formação Quality Assurance (QA) Experience da DIO - Instrutor Vanilto Falvo Junior.
