@@ -20,5 +20,5 @@
 </div>
 
 
-- Clique no link para acessar a apresentação sobre Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso. 
+- Clique no link para acessar a apresentação Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso. 
   - <a href='https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view'>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso </a>
