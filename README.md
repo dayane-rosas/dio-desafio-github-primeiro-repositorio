@@ -4,7 +4,11 @@
   </h1>
   </div>
 
-### Seja bem-vindo ao desafio DIO no GitHub Primeiro Repositório
+<div>
+  <h2 align="left">
+  👋🏼Seja bem-vindo ao desafio DIO no GitHub Primeiro Repositório
+  </h2>
+  </div>
 
 Desafio de criação  de um novo repositório. Formação Quality Assurance (QA) Experience da DIO - Instrutor Vanilto Falvo Junior.
 
