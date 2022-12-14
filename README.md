@@ -4,10 +4,14 @@
   </h1>
   </div>
 
-## 🏼Seja bem-vindo ao desafio DIO no GitHub Primeiro Repositório
-Desafio de criação  de um novo repositório. Formação Quality Assurance (QA) Experience da DIO - Instrutor Vanilto Falvo Junior.
+<div align='left'>
+  <b> Seja bem-vindo ao desafio DIO no GitHub Primeiro Repositório </b>
+</div><br>
 
-  
+  <p align="left">
+    Desafio de criação  de um novo repositório. Formação Quality Assurance (QA) Experience da DIO - Instrutor Vanilto Falvo Junior.
+<p align="left">
+
   </div>
 <div align="center">
   <a href="https://github.com/dayane-rosas">
