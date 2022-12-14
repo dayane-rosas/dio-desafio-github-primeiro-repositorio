@@ -8,7 +8,7 @@
     <img src="ezgif.com-gif-maker.gif" width="200">
     
 <div align='left'>
-  <b> 🐞 Seja bem-vindo ao desafio DIO no GitHub </b>
+  <b> ⭐️ Seja bem-vindo ao desafio DIO no GitHub </b>
 </div><br>
 
   <p align="left">
@@ -16,5 +16,5 @@
 <p align="left">
 
  
-- Clique no link para acessar a apresentação Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso. 
-  - <a href='https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view'> Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso </a>
+- Clique no link para acessar as intruções do Desafio de Projeto. 
+  - <a href='https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view'> Desafio Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso </a>
