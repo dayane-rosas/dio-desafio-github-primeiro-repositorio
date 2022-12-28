@@ -12,7 +12,7 @@
 </div> </br>
 
   <p align="left">
-    Nesse desafio fiz a criação de um novo repositório para a <b> Formação Quality Assurance (QA) Experience da DIO </b>, ministrado pelo Instrutor: href="https://github.com/falvojr" Vanilto Falvo Junior. 
+    Nesse desafio fiz a criação de um novo repositório para a <b> Formação Quality Assurance (QA) Experience da DIO </b>, ministrado pelo Instrutor: <a href="https://github.com/falvojr"> Vanilto Falvo Junior. 
 
 <p align="left">
 - Clique no link para acessar as intruções do Desafio de Projeto. 
