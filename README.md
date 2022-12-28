@@ -12,9 +12,8 @@
 </div> </br>
 
   <p align="left">
-    Nesse desafio fiz a criação de um novo repositório para a Formação Quality Assurance (QA) Experience da DIO - <b> Instrutor Vanilto Falvo Junior </b>.
-<p align="left">
+    Nesse desafio fiz a criação de um novo repositório para a <b> Formação Quality Assurance (QA) Experience da DIO </b>, ministrado pelo Instrutor: href="https://github.com/falvojr" Vanilto Falvo Junior. 
 
- 
+<p align="left">
 - Clique no link para acessar as intruções do Desafio de Projeto. 
   - <a href='https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view'> Desafio Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso </a>
